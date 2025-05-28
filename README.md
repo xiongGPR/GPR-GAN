@@ -9,7 +9,7 @@ tool for generating ground penetrating radar data using DL.
 - **corresponding author**: Professor Jing Li, College of Geo-Exploration Science and Technology, Jilin University  
 - **Team**: Computational Subsurface Imaging and Modeling (CSIM) Lab  
 - **Team Website**:  https://github.com/CSIMLab2024 
-- **Contact E-mail**: 1014007697@qq.com (Hongqiang Xiong); ljwy1209@163.com (Jing Ling)  
+- **Contact E-mail**: 1014007697@qq.com (Hongqiang Xiong); ljwy1209@163.com (Jing Li)  
 - **Year First Available**: 2023/06/11  
 
 ## Requirements
